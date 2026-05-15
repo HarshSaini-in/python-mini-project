@@ -1,517 +1,639 @@
 <div align="center">
 
-# 🤖 NeuralChat AI — Futuristic AI Chatbot Platform
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Python%20Mini%20Projects&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Learn%20Python%20by%20Building%20Fun%2C%20Interactive%20Games%20%26%20Tools!&descAlignY=60&descSize=18" width="100%"/>
 
-### *A Premium, Glassmorphism-Styled AI Chatbot Website + Python Mini Projects Collection*
+<!-- Animated Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=700&height=80&lines=🎮+24+Interactive+Python+Projects;🎨+Beautiful+Web+UI+%2B+CLI+Versions;⚡+Zero+Setup+Required+-+Just+Run+%26+Play!" alt="Typing SVG" />
+</a>
 
-[![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
-[![React](https://img.shields.io/badge/React-18%2B-61DAFB?logo=react)](https://react.dev/)
-[![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?logo=typescript)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.0-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Projects](https://img.shields.io/badge/mini--projects-24-orange.svg)]()
-[![Code Scanning](https://img.shields.io/badge/CodeQL-enabled-brightgreen.svg)]()
+<br/>
 
-**🚀 Premium AI UI | 💎 Glassmorphism Design | 🌈 Neon Effects | ⚡ Zero Config | 🤖 Built-in Smart Chatbot**
+<!-- Badges Row 1 -->
+[![Python Version](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)
+[![License](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
+[![Projects](https://img.shields.io/badge/Projects-24-f97316?style=for-the-badge&logo=rocket&logoColor=white)]()
+[![CodeQL](https://img.shields.io/badge/CodeQL-Enabled-8b5cf6?style=for-the-badge&logo=github&logoColor=white)]()
 
-[🚀 Live Demo](#-live-demo) • [🤖 AI Chatbot](#-ai-chatbot-ui) • [✨ Features](#-features) • [🎮 Projects](#-python-mini-projects) • [📦 Installation](#-installation--setup) • [🤝 Contributing](#-contributing)
+<!-- Badges Row 2 -->
+[![Stars](https://img.shields.io/github/stars/steam-bell-92/python-mini-project?style=for-the-badge&logo=starship&color=fbbf24&logoColor=white)](https://github.com/steam-bell-92/python-mini-project/stargazers)
+[![Forks](https://img.shields.io/github/forks/steam-bell-92/python-mini-project?style=for-the-badge&logo=git&color=ec4899&logoColor=white)](https://github.com/steam-bell-92/python-mini-project/network/members)
+[![Issues](https://img.shields.io/github/issues/steam-bell-92/python-mini-project?style=for-the-badge&logo=github&color=ef4444&logoColor=white)](https://github.com/steam-bell-92/python-mini-project/issues)
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-06b6d4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/steam-bell-92/python-mini-project/pulls)
 
----
+<br/>
+
+**🚀 Perfect for beginners &nbsp;|&nbsp; 💡 Learn by doing &nbsp;|&nbsp; 🎨 Beautiful UI &nbsp;|&nbsp; ⚡ Zero setup required**
+
+[Quick Start](#-quick-start) &nbsp;•&nbsp; [Screenshots](#-screenshots) &nbsp;•&nbsp; [Projects](#-projects) &nbsp;•&nbsp; [Features](#-features) &nbsp;•&nbsp; [Contributing](#-contributing)
 
 </div>
 
-## 🌟 What is NeuralChat AI?
+---
 
-> **A startup-level, production-quality AI chatbot platform — designed to WOW from the first glance.**
+## 📸 Screenshots
 
-**NeuralChat AI** is a modern, full-featured frontend AI chatbot website built with **Next.js 14**, **TypeScript**, **Tailwind CSS**, and **Framer Motion**. It combines a stunning landing page with a fully functional AI-style chatbot interface powered by smart predefined responses.
+> ✨ **Experience the beautiful web app UI — all 24 projects playable right in your browser!**
 
-This repository also contains the original **Python Mini Projects Collection** — 24 beginner-friendly interactive projects covering games, math, and utilities.
+<div align="center">
+
+### 🏠 Main Dashboard — All Projects View
+<img src="web-app/assets/screenshots/webapp-main.png" alt="Python Mini Projects — Main Dashboard" width="90%" style="border-radius:12px; box-shadow: 0 8px 32px rgba(124,58,237,0.4);"/>
+
+<br/><br/>
+
+### 🎮 Games Category — Filtered View
+<img src="web-app/assets/screenshots/webapp-games.png" alt="Python Mini Projects — Games Section" width="90%" style="border-radius:12px; box-shadow: 0 8px 32px rgba(124,58,237,0.4);"/>
+
+</div>
 
 ---
 
-## 🎨 Design Philosophy
+## 🎯 Why This Repository?
 
-| Principle | Implementation |
-|-----------|---------------|
-| 🌌 **Futuristic Dark Mode** | Deep space-inspired dark backgrounds (`#050508`, `#0a0a1a`) |
-| 💜 **Neon Color Palette** | Electric violet `#8B5CF6`, cyan `#06B6D4`, pink `#EC4899` |
-| 🪟 **Glassmorphism** | `backdrop-filter: blur(20px)` with translucent card surfaces |
-| ✨ **Micro-animations** | Framer Motion spring physics on every interactive element |
-| 🖱️ **Cursor Effects** | Custom glow that tracks mouse position across the viewport |
-| 🌊 **Smooth Scrolling** | Scroll-triggered reveal animations using Intersection Observer |
+> **Tired of boring "Hello World" tutorials?** 
 
----
+We built this collection to make learning Python **fun, interactive, and instantly rewarding**! Each project is:
+- ✅ **Complete & Ready to Run** - No setup, no dependencies, just pure Python fun
+- 🎨 **Visually Stunning** - Beautiful emoji-based UI that makes coding exciting
+- 📚 **Educational** - Learn core concepts while building real projects
+- 🎮 **Engaging** - From games to tools, there's something for everyone
+- 💪 **Beginner-Friendly** - Clean code with no complex functions
 
-## 🖥️ Live Demo
-
-```
-🌐 Web App:  http://localhost:3000
-🐍 Python:   python games/Rock-Paper-Scissor/Rock-Paper-Scissor.py
-```
+**Perfect for:** Students learning Python, teachers looking for class projects, or anyone wanting to code something fun in minutes!
 
 ---
 
-## 🏗️ Project Structure
+## ⚡ Quick Start
 
-```
-python-mini-project/
-├── 🤖 neuralchat-ai/               ← AI Chatbot Website (Next.js)
-│   ├── app/
-│   │   ├── layout.tsx              ← Root layout with SEO metadata
-│   │   ├── page.tsx                ← Landing page entry point
-│   │   └── chat/
-│   │       └── page.tsx            ← Full chatbot interface page
-│   ├── components/
-│   │   ├── Navbar.tsx              ← Responsive navbar with hamburger
-│   │   ├── HeroSection.tsx         ← Animated hero with particle BG
-│   │   ├── FeaturesSection.tsx     ← Glassmorphism feature cards
-│   │   ├── AboutSection.tsx        ← About + roadmap timeline
-│   │   ├── PricingSection.tsx      ← Free / Pro / Enterprise cards
-│   │   ├── TestimonialsSection.tsx ← Animated review carousel
-│   │   ├── ContactSection.tsx      ← Form + social links + footer
-│   │   ├── ChatBot/
-│   │   │   ├── ChatWindow.tsx      ← Main chat interface
-│   │   │   ├── MessageBubble.tsx   ← User & AI message bubbles
-│   │   │   ├── TypingIndicator.tsx ← AI "thinking" animation
-│   │   │   ├── ChatInput.tsx       ← Input box + emoji + send btn
-│   │   │   ├── WelcomeScreen.tsx   ← Empty state / onboarding
-│   │   │   └── responses.ts        ← All predefined AI responses
-│   │   └── ui/
-│   │       ├── GradientButton.tsx
-│   │       ├── GlassCard.tsx
-│   │       └── ParticleBackground.tsx
-│   ├── hooks/
-│   │   ├── useChatBot.ts           ← Chat logic + state management
-│   │   ├── useCursorGlow.ts        ← Mouse-tracking cursor effect
-│   │   └── useScrollAnimation.ts   ← Scroll reveal hook
-│   ├── lib/
-│   │   └── chatEngine.ts           ← Intent matching + response logic
-│   ├── styles/
-│   │   └── globals.css             ← Design tokens + animations
-│   ├── public/
-│   │   └── assets/                 ← Icons, avatars, og-image
-│   ├── tailwind.config.ts
-│   ├── next.config.ts
-│   └── package.json
-│
-├── 🎮 games/                       ← Python game projects
-├── 🔢 math/                        ← Python math projects
-├── 🔧 utilities/                   ← Python utility projects
-├── 🌐 web-app/                     ← Vanilla JS web app
-├── requirements.txt
-└── README.md
-```
-
----
-
-## 🤖 AI Chatbot UI
-
-The crown jewel of NeuralChat AI — a **beautiful, fully interactive chatbot interface** with smart predefined responses and premium animations.
-
-### 💬 Chat Interface Features
-
-| Feature | Description |
-|---------|-------------|
-| 🫧 **Chat Bubbles** | Distinct styling for user vs AI messages with gradient borders |
-| ⏰ **Timestamps** | Real-time message timestamps on every bubble |
-| 🤔 **Typing Indicator** | Three-dot pulse animation while AI "thinks" |
-| 📜 **Scrollable Chat** | Auto-scrolls to latest message with smooth easing |
-| 😊 **Emoji Picker** | Inline emoji support in the input box |
-| 📱 **Responsive Layout** | Full-screen on mobile, sidebar on desktop |
-| 🕐 **Chat History** | Persistent sidebar showing previous conversations |
-| 👋 **Welcome Screen** | Beautiful empty state with quick-start suggestions |
-| 🎙️ **Sound Placeholder** | Sound effect hooks ready for audio integration |
-
-### 🧠 Smart Response Engine
-
-The chatbot handles **50+ conversation patterns** across multiple categories:
-
-#### 👋 Greetings & Casual
-```
-"Hi" / "Hello" / "Hey" / "Hola" / "Namaste"
-→ "Hey there! 👋 I'm NeuralChat, your AI companion. How can I light up your day?"
-
-"Kaise ho?" / "How are you?"
-→ "Main bilkul theek hoon, shukriya poochne ke liye! 😊 Aap batao, main kya help kar sakta hoon?"
-
-"Good morning" / "Good night"
-→ "Good morning! ☀️ Ready to make today amazing? What can I help you with?"
-```
-
-#### 🤖 AI Identity
-```
-"What is your name?" / "Who are you?"
-→ "I'm NeuralChat AI 🤖 — a futuristic intelligence designed to assist, guide, and inspire!"
-
-"What can you do?" / "Help me"
-→ "I can answer questions, guide projects, explain concepts, support your learning journey, and have great conversations! 🚀"
-```
-
-#### 💡 Help & Support
-```
-"Help" / "I need help" / "Support"
-→ "Of course! Tell me what you're working on and I'll guide you step by step. 💪"
-
-"Explain this" / "Guide me" / "How does X work?"
-→ "Great question! Let me break it down for you in simple, clear steps... 📖"
-```
-
-#### 🐍 Project-Specific (Python Mini Projects)
-```
-"Which project should I start with?"
-→ "For beginners, I'd recommend starting with Coin Flip 🪙 or Dice Rolling 🎲 — simple, fun, and great for learning!"
-
-"How do I run a project?"
-→ "Easy! Open terminal, navigate to the project folder, and type: python filename.py 🚀"
-```
-
-#### ❓ FAQ & General
-```
-"What is AI?" / "Tell me about AI"
-→ "AI (Artificial Intelligence) enables machines to learn, reason, and solve problems — like me! 🧠✨"
-
-"Goodbye" / "Bye" / "See you"
-→ "Goodbye! 👋 It was great chatting. Come back anytime — I'm always here! 🌟"
-```
-
----
-
-## 🌐 Landing Page Sections
-
-### 🦸 Hero Section
-- **Animated gradient background** — shifting purple-to-cyan mesh gradient
-- **Floating 3D elements** — orbiting orbs with parallax depth
-- **Particle field** — 80+ interactive canvas particles that react to mouse
-- **Headline animation** — typewriter effect on the main tagline
-- **Dual CTA buttons** — "Start Chatting" (gradient) + "View Projects" (ghost)
-- **Scroll indicator** — animated bouncing chevron
-
-### 🧭 Navbar
-- Logo with animated AI pulse icon
-- Links: **Home | Features | About | Pricing | Contact**
-- **Login button** with gradient border effect
-- **Hamburger menu** on mobile with slide-in drawer animation
-- Blur-on-scroll: navbar gains `backdrop-filter` when page scrolls
-
-### ✨ Features Section
-
-> 7 premium glassmorphism feature cards with hover lift + glow effects:
-
-| Icon | Feature | Description |
-|------|---------|-------------|
-| 🤖 | **AI Assistance** | Context-aware responses powered by intent matching |
-| ⚡ | **Fast Responses** | Sub-100ms reply generation with zero latency |
-| 💡 | **Smart Suggestions** | Proactive hints based on conversation context |
-| 🔴 | **Real-time Support** | Live chat with typing indicators and instant feedback |
-| 🔒 | **Secure System** | End-to-end encrypted conversations, zero data logging |
-| 🎯 | **Personalized Experience** | Adapts tone and responses to your conversation style |
-| 🕐 | **24/7 Availability** | Always online, never sleeps — your tireless AI companion |
-
-### 📖 About Section
-- **Mission statement** with animated counter stats
-- **How it works** — 3-step visual flow diagram
-- **Use cases** — Education, Development, Customer Support, Personal Assistant
-- **Future roadmap** timeline:
-  - Q1 2025 → Launch MVP chatbot
-  - Q2 2025 → GPT-4 API Integration
-  - Q3 2025 → Voice Chat Support
-  - Q4 2025 → Multi-language AI (10+ languages)
-  - 2026 → Autonomous Agent Mode
-
-### 💳 Pricing Section
-
-| Plan | Price | Features |
-|------|-------|---------|
-| 🆓 **Free** | $0/mo | 50 msgs/day, Basic AI, Web UI |
-| 🚀 **Pro** | $9/mo | Unlimited msgs, GPT-4, History, Emoji, Priority support |
-| 🏢 **Enterprise** | Custom | White-label, API access, Custom training, SLA, Dedicated support |
-
-> *Pro plan highlighted with animated "Most Popular" badge*
-
-### 💬 Testimonials Section
-
-> Animated card carousel with 6 user reviews:
-
-- **Aryan Sharma** ⭐⭐⭐⭐⭐ — *"The UI is absolutely stunning. Feels like talking to a real AI from the future!"*
-- **Priya Mehta** ⭐⭐⭐⭐⭐ — *"Used it for my final year project guidance. Saved me hours of research!"*
-- **James Wilson** ⭐⭐⭐⭐⭐ — *"The glassmorphism design is premium. My students love using this in class."*
-- **Sara Kim** ⭐⭐⭐⭐⭐ — *"The chatbot answers feel so natural. It understood 'kaise ho' perfectly! 😂"*
-- **Dev Patel** ⭐⭐⭐⭐⭐ — *"Competitors charge 10x more for this quality. NeuralChat is a gem."*
-- **Ananya Roy** ⭐⭐⭐⭐⭐ — *"The typing animation and particle background are chef's kiss 💜"*
-
-### 📬 Contact Section
-- Contact form with name, email, and message fields (with validation)
-- **Social links** — GitHub, Twitter/X, LinkedIn, Discord
-- **Email** — support@neuralchat.ai
-- Full footer with links, copyright, and back-to-top button
-
----
-
-## 🎆 Premium UI/UX Features
-
-### 🖱️ Cursor Glow Effect
-```typescript
-// Custom hook — tracks mouse and renders a radial glow
-const { x, y } = useCursorGlow();
-// CSS: background: radial-gradient(circle at {x}px {y}px, #8B5CF640 0%, transparent 60%)
-```
-
-### 🌊 Scroll Animations
-- Every section fades + slides in on scroll using `Intersection Observer`
-- Staggered children animations with Framer Motion `staggerChildren`
-- Number counters animate from 0 to target when entering viewport
-
-### 🔮 AI Loading Animation
-```
-[●] Initializing neural pathways...
-[●●] Processing your query...
-[●●●] Generating response...
-```
-Three-stage loading sequence before each AI reply
-
-### 🎇 Particle Background
-- 80 canvas-rendered particles with random velocities
-- Mouse proximity repulsion effect
-- Connected by lines when within 120px distance
-- Color-coded: violet, cyan, and pink nodes
-
-### 🃏 Interactive Feature Cards
-- 3D tilt on mouse hover using `perspective` transform
-- Neon border glow on `:hover` using `box-shadow`
-- Icon floats up 4px with spring animation on hover
-
----
-
-## 🛠️ Tech Stack
-
-### AI Chatbot Website
-| Technology | Version | Purpose |
-|-----------|---------|---------|
-| **Next.js** | 14 | App router, SSR, routing |
-| **React** | 18 | Component architecture |
-| **TypeScript** | 5.0 | Type safety |
-| **Tailwind CSS** | 3.4 | Utility-first styling |
-| **Framer Motion** | 11 | Animations & transitions |
-| **Lucide React** | Latest | Icon library |
-| **Canvas API** | Native | Particle background |
-
-### Python Mini Projects
-| Technology | Purpose |
-|-----------|---------|
-| **Python 3.10+** | Core runtime |
-| **Matplotlib** | Projectile motion visualization |
-| **Standard Library** | All other projects (zero dependencies!) |
-
----
-
-## 📦 Installation & Setup
-
-### 🤖 AI Chatbot Website (Next.js)
+### 🌐 **Try the Web App** (Recommended!)
+Experience all 24 projects in your browser with beautiful animations and visualizations!
 
 ```bash
-# 1. Clone the repository
+# Clone the repository
 git clone https://github.com/steam-bell-92/python-mini-project.git
-cd python-mini-project/neuralchat-ai
 
-# 2. Install dependencies
-npm install
-
-# 3. Start the development server
-npm run dev
-
-# 4. Open in browser
-# → http://localhost:3000
-```
-
-**Production Build:**
-```bash
-npm run build
-npm start
-```
-
-### 🌐 Vanilla Web App (Existing)
-
-```bash
+# Navigate to the web app
 cd python-mini-project/web-app
+
+# Start the web server
 python -m http.server 8000
-# → http://localhost:8000
+
+# Open http://localhost:8000 in your browser
 ```
 
-### 🐍 Python Mini Projects
+### 🐍 **Or Run Python Projects Directly**
 
 ```bash
-# No installation needed!
+# Navigate to the project
 cd python-mini-project
 
-# Run any project directly
+# Run any project (no installation needed!)
 python games/Rock-Paper-Scissor/Rock-Paper-Scissor.py
+```
+
+**That's it!** No pip installs, no virtual environments, just instant fun! 🎉
+
+---
+
+## 🎮 Projects
+
+<div align="center">
+
+<!-- Animated section divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+</div>
+
+### 🚀 **Physics & Simulation**
+
+#### 🎯 Projectile Motion Game
+Launch projectiles and visualize trajectory stats!
+- 🚀 Simple launch simulation
+- 📊 Shows TOF, Hmax, and Range
+- 📈 Matplotlib plot for each launch
+```bash
+python math/Projectile-Motion-Game/Projectile-Motion-Game.py
+```
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+### 🎲 **Games** - Test Your Luck & Skills!
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🪨 Rock, Paper, Scissors
+Battle against the computer in this classic game!
+- 🎯 Interactive gameplay
+- 🤖 Smart computer opponent
+- 🎨 Visual feedback for wins/losses
+```bash
+python games/Rock-Paper-Scissor/Rock-Paper-Scissor.py
+```
+
+</td>
+<td width="50%">
+
+#### 🎲 Dice Rolling
+Roll two dice and see your fortune!
+- ⚀⚁⚂ Realistic dice emojis
+- 📊 Total calculation
+- 🎰 Perfect for board game nights
+```bash
+python games/Roling-Dice/Roling-Dice.py
+```
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### 🧭 Coordinate to Polar Transformation
+Convert Cartesian coordinates into polar representation!
+- 📍 Input (x, y) coordinates
+- 📏 Computes radius r = sqrt(x^2 + y^2)
+- 📐 Shows angle in both degrees and radians
+```bash
+python math/Coordinate-to-Polar-Transformation/Coordinate-to-Polar-Transformation.py
+```
+
+</td>
+<td width="50%">
+
+#### ∂ Derivative Calculator
+Perform full polynomial derivative operations!
+- 🧮 First derivative and nth derivative support
+- 📍 Evaluate derivative value at any x
+- ✍️ Input polynomial using coefficient list
+```bash
+python math/Derivative-Calculator/Derivative-Calculator.py
+```
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### 🪙 Coin Flip
+Can you predict heads or tails?
+- 👑 Heads vs 🦅 Tails
+- 🎭 Simple yet addictive
+- ⚡ Quick decision maker
+```bash
+python games/Flipping-toss/Flipping-toss.py
+```
+
+</td>
+<td width="50%">
+
+#### 🎯 Number Guessing Game
+Think you can read the computer's mind?
+- 🤔 Interactive guessing
+- 📈📉 Smart hints
+- 🎊 Celebratory win screen
+```bash
+python games/Number-Guessing-Game/Number-Guessing-Game.py
+```
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### 🎮 Hangman Game
+Classic word-guessing game!
+- 📝 Random word selection
+- ❤️ 6 attempts to guess
+- 🔤 Track guessed letters
+```bash
 python games/Hangman-Game/Hangman-Game.py
+```
+
+</td>
+<td width="50%">
+
+#### 💖 FLAMES Game
+Discover your relationship status!
+- 👫 Enter two names
+- 🔮 Magical calculation
+- 💕 Friends, Love, Affection, Marriage, Enemies, or Siblings
+```bash
+python games/FLAMES-Game/FLAMES-Game.py
+```
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+
+#### 🔐 Password Forge
+Survive evolving firewall rules by continuously upgrading your password!
+- 🔓 Progressive rule unlocking
+- ❤️ Lives system
+- 🏆 Score tracking
+- 🎯 Multiple difficulty levels
+```bash
+python games/Password-Forge/Password-Forge.py
+```
+
+</td>
+
+
+#### 📐 AP/GP/AGP/HP Recognizer
+Identify progression types from a number sequence!
+- 🔍 Detects Arithmetic, Geometric, Arithmetic-Geometric, and Harmonic patterns
+- 🧠 Supports integer and decimal values
+- 📘 Great for quick sequence practice
+#### 🧩 Tic-Tac-Toe
+Classic X and O strategy game!
+- 👤 Play against another player
+- 🤖 Smart computer opponent
+- 🏆 Result tracking
+```bash
+python games/Tic-Tac-Toe/Tic-Tac-Toe.py
+```
+
+</td>
+<td width="50%">
+
+#### 🧠 Emoji Memory Game
+Test your memory with matching emojis!
+- 🎴 Dynamic emoji grid
+- ⏱️ Score tracking
+- 🧠 Brain training fun
+```bash
+python games/Emoji-Memory-Game/emoji_memory_game.py
+```
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### 🗣️ Simon Says - Memory Game
+Test your memory with an ever-growing sequence!
+- 🔴🔵🟢🟡 Colorful emoji buttons
+- 🧠 Watch and repeat the sequence
+- 📈 Sequence grows each round
+- 🏆 Win by completing 10 rounds
+```bash
+python games/Simon-Says/Simon-Says.py
+```
+
+</td>
+</tr>
+</table>
+
+### 🔢 **Mathematical Wizards** - Explore Number Magic!
+
+<table>
+<tr>
+<td width="50%">
+
+#### 📐 AP/GP/AGP/HP Recognizer
+Identify progression types from a number sequence!
+- 🔍 Detects Arithmetic, Geometric, Arithmetic-Geometric, and Harmonic patterns
+- 🧠 Supports integer and decimal values
+- 📘 Great for quick sequence practice
+```bash
+python math/AP-GP-AGP-HP-Recognizer/AP-GP-AGP-HP-Recognizer.py
+```
+
+</td>
+<td width="50%">
+
+#### ✨ Fibonacci Series
+Generate beautiful mathematical sequences
+- 🌀 Classic Fibonacci pattern
+- 📊 Visual array display
+- ➡️ Arrow-based formatting
+```bash
 python math/Fibonacci-Series/Fibonacci-Series.py
 ```
 
-**Prerequisites:** Python 3.10+ ([Download](https://www.python.org/downloads/))
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### 🔺 Pascal's Triangle
+Discover mathematical beauty in triangles!
+- 🎨 Centered triangle display
+- 🔍 View specific rows
+- 📐 Interactive exploration
+```bash
+python math/Pascal-Triangle/Pascal-Triangle.py
+```
+
+</td>
+<td width="50%">
+
+#### 💎 Armstrong Number Checker
+Uncover special numbers with unique properties!
+- 🔢 Detailed calculation breakdown
+- ✅ Instant verification
+- 💡 Educational examples
+```bash
+python math/Armstrong-Number/Armstrong-Number.py
+```
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### 🧮 Simple Calculator
+Your mathematical companion!
+- ➕➖✖️➗ All basic operations
+- 💪 Power & modulus support
+- 🎨 Clean menu interface
+```bash
+python math/Simple-Calculator/Simple-Calculator.py
+```
+
+</td>
+<td width="50%">
+
+#### 🔢 Collatz Conjecture
+Explore the famous 3n+1 problem!
+- 🌀 Generate complete sequence
+- 📊 Track steps and statistics
+- 🎯 Watch numbers reach 1
+```bash
+python math/Collatz-Conjecture/Collatz-Conjecture.py
+```
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### 🔱 Prime Number Analyzer
+All-in-one prime number toolkit!
+- ✅ Check if number is prime
+- 📈 Generate primes up to N
+- 🎯 Find primes in range
+- 🧩 Prime factorization
+```bash
+python math/Prime-Number-Analyzer/Prime-Number-Analyzer.py
+```
+
+</td>
+<td width="50%"></td>
+</tr>
+</table>
+
+### 🔐 **Crypto & Utilities** - Encode Your Secrets!
+
+<table>
+<tr>
+<td width="50%">
+
+#### 📻 Morse Code Translator
+Transform text into dots and dashes!
+- 🔄 Bidirectional translation
+- 📊 Complete Morse chart
+- 💬 Supports letters, numbers & symbols
+```bash
+python utilities/Text-to-Morse/Text-to-Morse.py
+```
+
+</td>
+<td width="50%">
+
+#### 🗼 Tower of Hanoi
+Solve the classic puzzle step by step!
+- 🎯 1-8 disks to solve
+- 📋 Visual tower representation
+- 🧠 Iterative solution display
+```bash
+python utilities/Tower-of-Hanoi/Tower-of-Hanoi.py
+```
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### 🔢 Number System Converter
+Convert between Decimal, Binary, Hex, and Octal!
+- 🔄 Seamless base conversions
+- 📚 Educational step-by-step logic
+- 🖥️ Zero-dependency built-in functions
+```bash
+python utilities/Number-System-Converter/Number-System-Converter.py
+```
+
+</td>
+<td width="50%">
+
+#### ⌨️ Typing Speed Tester
+Test your typing speed and accuracy!
+- ⏱️ Real-time timing
+- 🚀 Words Per Minute (WPM) calculation
+- 🎯 Accuracy percentage feedback
+```bash
+python utilities/Typing-Speed-Tester/Typing-Speed-Tester.py
+```
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### 🐾 Productivity Pet
+Keep your virtual pet happy by staying productive!
+- 🐶 Interactive pet companion
+- 📊 Task-based mood tracking
+- 📈 Productivity stats
+```bash
+python utilities/Productivity-Pet/Productivity-Pet.py
+```
+
+</td>
+<td width="50%"></td>
+</tr>
+</table>
 
 ---
 
-## 🎮 Python Mini Projects
+## ✨ Features
 
-The original 24 beginner-friendly Python projects — still here and better documented than ever!
+<div align="center">
 
-### 🎲 Games
+| 🌟 Feature | 📝 Description |
+|:---:|:---|
+| 🌐 **Web App** | All 24 projects playable in your browser — no Python needed! |
+| 🎨 **Beautiful UI** | Smooth animations, dark/light theme toggle, responsive layout |
+| 🏷️ **Category Filter** | Browse by Games, Math, or Utilities instantly |
+| 💯 **Zero Dependencies** | Pure Python — no external packages for CLI projects |
+| 📚 **Well-Documented** | Clear code with helpful comments throughout |
+| 🎯 **Beginner-Friendly** | Perfect for Python learners at any level |
+| ⚡ **Instant Run** | No setup required — just download and play! |
+| 🔄 **Interactive** | All projects feature rich user interaction and feedback |
 
-| Project | Description | Command |
-|---------|-------------|---------|
-| 🪨 **Rock, Paper, Scissors** | Battle the AI in this classic | `python games/Rock-Paper-Scissor/Rock-Paper-Scissor.py` |
-| 🎲 **Dice Rolling** | Roll two dice and track fortune | `python games/Roling-Dice/Roling-Dice.py` |
-| 🪙 **Coin Flip** | Heads or tails — instant decision | `python games/Flipping-toss/Flipping-toss.py` |
-| 🎯 **Number Guessing** | Read the computer's mind | `python games/Number-Guessing-Game/Number-Guessing-Game.py` |
-| 🎮 **Hangman** | Classic word-guessing with 6 lives | `python games/Hangman-Game/Hangman-Game.py` |
-| 💖 **FLAMES** | Discover your relationship fate | `python games/FLAMES-Game/FLAMES-Game.py` |
-| 🔐 **Password Forge** | Survive evolving firewall rules | `python games/Password-Forge/Password-Forge.py` |
-| 🧩 **Tic-Tac-Toe** | Classic X vs O strategy | `python games/Tic-Tac-Toe/Tic-Tac-Toe.py` |
-| 🧠 **Emoji Memory** | Match emojis before time runs out | `python games/Emoji-Memory-Game/emoji_memory_game.py` |
-| 🗣️ **Simon Says** | Repeat the growing color sequence | `python games/Simon-Says/Simon-Says.py` |
-
-### 🔢 Mathematics
-
-| Project | Description | Command |
-|---------|-------------|---------|
-| 🚀 **Projectile Motion** | Launch & visualize trajectories | `python math/Projectile-Motion-Game/Projectile-Motion-Game.py` |
-| ✨ **Fibonacci Series** | Generate mathematical sequences | `python math/Fibonacci-Series/Fibonacci-Series.py` |
-| 🔺 **Pascal's Triangle** | Discover triangular beauty | `python math/Pascal-Triangle/Pascal-Triangle.py` |
-| 💎 **Armstrong Numbers** | Find special digit-power numbers | `python math/Armstrong-Number/Armstrong-Number.py` |
-| 🧮 **Simple Calculator** | All basic + advanced operations | `python math/Simple-Calculator/Simple-Calculator.py` |
-| 🔢 **Collatz Conjecture** | Explore the famous 3n+1 problem | `python math/Collatz-Conjecture/Collatz-Conjecture.py` |
-| 🔱 **Prime Analyzer** | Check, generate, and factorize primes | `python math/Prime-Number-Analyzer/Prime-Number-Analyzer.py` |
-| 🧭 **Coordinate to Polar** | Convert Cartesian → polar | `python math/Coordinate-to-Polar-Transformation/Coordinate-to-Polar-Transformation.py` |
-| ∂ **Derivative Calculator** | Polynomial derivatives made easy | `python math/Derivative-Calculator/Derivative-Calculator.py` |
-| 📐 **AP/GP/AGP/HP Recognizer** | Identify number progression types | `python math/AP-GP-AGP-HP-Recognizer/AP-GP-AGP-HP-Recognizer.py` |
-
-### 🔧 Utilities
-
-| Project | Description | Command |
-|---------|-------------|---------|
-| 📻 **Morse Code Translator** | Text ↔ dots and dashes | `python utilities/Text-to-Morse/Text-to-Morse.py` |
-| 🗼 **Tower of Hanoi** | Solve the classic disk puzzle | `python utilities/Tower-of-Hanoi/Tower-of-Hanoi.py` |
-| 🔢 **Number System Converter** | Decimal ↔ Binary ↔ Hex ↔ Octal | `python utilities/Number-System-Converter/Number-System-Converter.py` |
-| ⌨️ **Typing Speed Tester** | WPM + accuracy measurement | `python utilities/Typing-Speed-Tester/Typing-Speed-Tester.py` |
-| 🐾 **Productivity Pet** | Stay productive to keep pet happy | `python utilities/Productivity-Pet/Productivity-Pet.py` |
+</div>
 
 ---
 
 ## 🎓 What You'll Learn
 
-### From the AI Chatbot Website
-- ⚛️ **Next.js 14 App Router** — Modern React server components
-- 🎨 **Advanced Tailwind CSS** — Custom design systems and tokens
-- 🎞️ **Framer Motion** — Spring physics, layout animations, gesture detection
-- 🧠 **Intent Matching** — Building rule-based NLP response engines
-- 🖱️ **Canvas API** — Particle systems and interactive animations
-- 📱 **Mobile-First Design** — Responsive layouts that work everywhere
-- 🪟 **Glassmorphism** — Modern CSS blur + transparency effects
+Working through these projects, you'll master:
 
-### From Python Mini Projects
-- ✅ **User Input & Output** — Interactive console apps
-- ✅ **Control Flow** — if/elif/else, while/for loops
-- ✅ **Data Structures** — Lists, dicts, sets, tuples
-- ✅ **Randomization** — `random` module mastery
-- ✅ **String Manipulation** — Text processing and formatting
-- ✅ **Math & Algorithms** — Real computational problems
-- ✅ **Logic & Problem Solving** — Think like a programmer
+<div align="center">
+
+```
+✅ User Input & Output    →  Interactive console applications
+✅ Control Flow           →  if/elif/else, while loops
+✅ Data Structures        →  Lists, dictionaries, arrays
+✅ Randomization          →  Using the random module
+✅ String Manipulation    →  Text processing and formatting
+✅ Mathematical Ops       →  Calculations and algorithms
+✅ Geometric Patterns     →  Understanding shapes & symmetry
+✅ Logic & Problem Solving →  Building real-world applications
+```
+
+</div>
+
+---
+
+## 🚀 Getting Started Guide
+
+### 🌐 Web Application (Easiest Way!)
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/steam-bell-92/python-mini-project.git
+   cd python-mini-project/web-app
+   ```
+
+2. **Start a local server**
+   ```bash
+   # Using Python 3
+   python -m http.server 8000
+   
+   # Or using Node.js
+   npx http-server
+   ```
+
+3. **Open your browser** and visit `http://localhost:8000`
+
+4. **Enjoy all 24 projects** with beautiful animations! 🎉
+
+### 🐍 Python CLI Projects
+
+#### Prerequisites
+- Python 3.10 or higher ([Download here](https://www.python.org/downloads/))
+- Any text editor or IDE (VS Code, PyCharm, or even Notepad!)
+
+#### Running Your First Project
+
+1. **Choose a project** from the list above
+2. **Open your terminal/command prompt**
+3. **Navigate to the project folder**
+4. **Run the Python file**:
+   ```bash
+   python games/Rock-Paper-Scissor/Rock-Paper-Scissor.py
+   ```
+5. **Have fun!** 🎉
+
+### Tips for Beginners
+- 💡 **Try the web app first** for an instant, visual experience
+- 🎮 Start with simple games like Coin Flip or Dice Rolling
+- 📖 Read through the code to understand how it works
+- 🎨 Try modifying emojis or messages to personalize the projects
+- 🔧 Experiment with changing game rules or adding features
+- 🤝 Share your improvements with the community!
 
 ---
 
 ## 🤝 Contributing
 
-We love contributions from the community! 🎉
+We love contributions! Here's how you can help:
 
-### 🤖 Contributing to the AI Chatbot
-
-```bash
-# 1. Fork & clone
-git clone https://github.com/YOUR_USERNAME/python-mini-project.git
-cd python-mini-project/neuralchat-ai
-
-# 2. Create a feature branch
-git checkout -b feature/add-voice-chat
-
-# 3. Make your changes and test
-npm run dev
-
-# 4. Commit with a descriptive message
-git commit -m "feat: add voice input support to ChatInput component"
-
-# 5. Push and open a Pull Request
-git push origin feature/add-voice-chat
-```
-
-**Chatbot Contribution Ideas:**
-- 🗣️ Add more language support (Hindi, Spanish, French...)
-- 🎙️ Integrate Web Speech API for voice input
-- 🧠 Connect to OpenAI / Gemini API for real AI responses
-- 📊 Add chat analytics dashboard
-- 🎨 Create additional color themes
-
-### 🐍 Contributing Python Projects
+### Adding New Projects
 
 1. 🍴 **Fork** the repository
 2. 🌟 **Create** a new branch (`git checkout -b feature/AmazingProject`)
-3. 💻 **Add** your mini project in the correct folder:
-   - Games → `games/Project-Name/Project-Name.py`
-   - Math → `math/Project-Name/Project-Name.py`
-   - Utilities → `utilities/Project-Name/Project-Name.py`
-4. ✅ **Follow** project guidelines (emojis, no external deps, beginner-friendly)
-5. 📤 **Commit** and open a Pull Request
+3. 💻 **Add** your mini project
+   - Python CLI version in a category folder (`games/`, `math/`, or `utilities/`) and then its own project folder (for example `games/Project-Name/Project-Name.py`)
+   - Web implementation in `web-app/js/projects.js`
+4. ✅ **Ensure** it follows our style (emojis, clean code)
+5. 📤 **Commit** your changes (`git commit -m 'Add Amazing Project'`)
+6. 🚀 **Push** to the branch (`git push origin feature/AmazingProject`)
+7. 🎉 **Open** a Pull Request
 
-**Python Project Guidelines:**
+### Project Guidelines
+
+#### Python Projects
 - Use emojis for visual appeal 🎨
-- Keep code simple and well-commented 📚
-- Zero external dependencies 💯
-- Include clear run instructions ✅
-- Add docstrings to all functions 📝
+- Keep code simple and beginner-friendly 📚
+- No external dependencies 💯
+- Include clear instructions ✅
+- Add docstrings and comments 📝
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for full details.
+#### Web App Projects
+- Match the existing design patterns
+- Use vanilla JavaScript (no frameworks)
+- Implement in `getProjectHTML()` and `initProject()` functions
+- Include animations and visual feedback
+- Ensure responsive design
 
----
-
-## 🔐 Security
-
-Please review our [SECURITY.md](SECURITY.md) for responsible disclosure guidelines.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 ---
 
 ## 📝 License
 
-This project is licensed under the **MIT License** — see [LICENSE](LICENSE) for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
 ## 💬 Connect & Share
 
-Found NeuralChat AI useful? Show some love! 💜
+Found this helpful? Show some love!
 
-- ⭐ **Star this repo** if it impressed you
-- 🐛 **Report issues** via [GitHub Issues](../../issues)
-- 💬 **Share** with friends building AI projects
-- 🎓 **Use** in your classroom, hackathon, or portfolio
-- 🐦 **Tweet** about it — tag us `@NeuralChatAI`
+- ⭐ **Star this repo** if you found it useful
+- 🐛 **Report bugs** or suggest features via [Issues](../../issues)
+- 💬 **Share** with friends learning Python
+- 🎓 **Use** in your classroom or coding club
 
 ---
 
 <div align="center">
 
-## 🚀 Built with 💜 for the AI Generation
+<!-- Animated footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
-**NeuralChat AI** — *Where Code Meets Intelligence*
+### 🎉 Happy Coding! 🎉
 
-[![Made with Next.js](https://img.shields.io/badge/Made%20with-Next.js-black?logo=next.js)](https://nextjs.org/)
-[![Styled with Tailwind](https://img.shields.io/badge/Styled%20with-Tailwind%20CSS-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
-[![Animated with Framer](https://img.shields.io/badge/Animated%20with-Framer%20Motion-0055FF?logo=framer)](https://www.framer.com/motion/)
+**Made with ❤️ for Python learners everywhere**
 
-*If this helped you, don't forget to ⭐ star the repo!*
+*If you learned something new, don't forget to star the repo! ⭐*
 
-[⬆ Back to Top](#-neuralchat-ai--futuristic-ai-chatbot-platform)
+<!-- Animated contribution snake (if enabled in GitHub Actions) -->
+<img src="https://raw.githubusercontent.com/steam-bell-92/python-mini-project/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="80%" onerror="this.style.display='none'"/>
+
+[⬆ Back to Top](#-python-mini-projects-collection-)
+
+<br/>
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=steam-bell-92.python-mini-project&left_color=7c3aed&right_color=06b6d4&left_text=👁️%20Visitors)
 
 </div>
