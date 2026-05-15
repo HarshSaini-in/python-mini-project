@@ -509,7 +509,6 @@ Free to use, modify, and distribute. Attribution appreciated! 🙏
 
 *If this helped you learn something new — drop a ⭐ and share with a friend!*
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/python-mini-project&type=Date)](https://star-history.com/#yourusername/python-mini-project&Date)
 
 [⬆ Back to Top](#-python-mini-projects-collection)
 
