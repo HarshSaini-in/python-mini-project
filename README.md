@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Python%20Mini%20Projects&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Learn%20by%20Building%20%7C%20Play%20by%20Coding&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
+<!-- <a href="https://git.io/typing-svg"> -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=🎮+20+Interactive+Python+Projects;🚀+Zero+Dependencies+%7C+Instant+Fun;🎓+Built+for+Learners%2C+Loved+by+All" alt="Typing SVG" />
 </a>
 
