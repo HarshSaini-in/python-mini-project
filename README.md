@@ -1,515 +1,444 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Python%20Mini%20Projects&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Learn%20by%20Building%20%7C%20Play%20by%20Coding&descAlignY=55&descSize=18" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     ANIMATED HEADER                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<!-- Typing SVG -->
-<!-- <a href="https://git.io/typing-svg"> -->
-  <!--img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=🎮+20+Interactive+Python+Projects;🚀+Zero+Dependencies+%7C+Instant+Fun;🎓+Built+for+Learners%2C+Loved+by+All" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,50:0d1b2a,100:1a0533&height=280&section=header&text=Yash%20Sharma&fontSize=72&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&desc=Python%20Engineer%20%7C%20AI%2FML%20Builder%20%7C%20Open%20Source%20Advocate&descAlignY=62&descSize=19&descColor=a78bfa&stroke=00d4ff&strokeWidth=1" width="100%"/>
+
+<!-- Waving Hand + Typing SVG -->
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" height="35px"/>
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=%3E+Building+intelligent+systems+with+Python+%26+AI;%3E+Turning+ideas+into+open-source+realities;%3E+Always+learning%2C+always+shipping" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- Badges Row 1 -->
-[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![License](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
-[![Projects](https://img.shields.io/badge/Projects-20-F97316?style=for-the-badge&logo=rocket&logoColor=white)]()
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-8B5CF6?style=for-the-badge&logo=git&logoColor=white)](CONTRIBUTING.md)
-
-<!-- Badges Row 2 -->
-[![Stars](https://img.shields.io/github/stars/yourusername/python-mini-project?style=for-the-badge&logo=github&color=FFD700&labelColor=1a1a2e)](https://github.com/yourusername/python-mini-project/stargazers)
-[![Forks](https://img.shields.io/github/forks/yourusername/python-mini-project?style=for-the-badge&logo=github&color=6AD3F7&labelColor=1a1a2e)](https://github.com/yourusername/python-mini-project/network)
-[![Issues](https://img.shields.io/github/issues/yourusername/python-mini-project?style=for-the-badge&logo=github&color=EF4444&labelColor=1a1a2e)](https://github.com/yourusername/python-mini-project/issues)
-[![CodeQL](https://img.shields.io/badge/CodeQL-Enabled-brightgreen?style=for-the-badge&logo=github-actions&logoColor=white)]()
-
-<!-- Profile Views -->
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yourusername.python-mini-project&style=for-the-badge&color=6AD3F7)
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2300D4FF.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourinvite)
 
 <br/>
 
-<!-- Navigation Links -->
-[🚀 Quick Start](#-quick-start) · [🎮 Projects](#-projects) · [📊 Analytics](#-analytics) · [🤝 Contributing](#-contributing) · [🌐 Web App](#-web-app)
+<!-- Visitor Counter -->
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername&style=for-the-badge&color=00d4ff&labelColor=0d1b2a&label=visitors)
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=a78bfa&labelColor=0d1b2a&logo=github)](https://github.com/yourusername)
 
 </div>
 
----
+<br/>
 
-<!-- About Section -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      ABOUT ME                              -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-## 🌟 Why This Collection?
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2" width="100%"/>
 
-<table>
-<tr>
-<td width="60%">
+<br/>
 
-> **"The best way to learn Python is to build something you actually want to use."**
+```python
+#!/usr/bin/env python3
+# ── sys.profile ──────────────────────────────────────────────
 
-This collection transforms boring tutorials into **20 hand-crafted, interactive Python experiences** — games, math tools, and utilities that are:
+class Developer:
+    def __init__(self):
+        self.name       = "Yash Sharma"
+        self.role       = "Python Engineer & AI/ML Builder"
+        self.location   = "India 🇮🇳"
+        self.languages  = ["Python", "JavaScript", "SQL", "Bash"]
+        self.interests  = ["AI/ML", "Open Source", "PyQt", "Web Dev"]
+        self.currently  = "Building cool AI-powered tools"
+        self.philosophy = "Code is poetry. Ship it."
 
-- 🎯 **Instantly Runnable** — Clone and play in under 60 seconds
-- 🧠 **Concept-Rich** — Each project teaches real Python skills
-- 🎨 **Visually Delightful** — Beautiful emoji-based CLI interfaces
-- 💯 **Zero Dependencies** — Pure Python, no pip installs ever
-- 🌐 **Browser Playable** — Full web app included, no Python needed
+    def say_hi(self):
+        print("Thanks for stopping by — let's build something great!")
 
-**Whether you're a student, teacher, or seasoned dev** looking for a fun weekend project — there's something here for you.
-
-</td>
-<td width="40%" align="center">
-
-```
- Projects Breakdown
- ──────────────────
-  🎲 Games        →  8 projects
-  🔢 Math Tools   →  8 projects
-  🔐 Utilities    →  2 projects
-  🌐 Web App      →  1 full app
- ──────────────────
-  Total           →  20 projects
+me = Developer()
+me.say_hi()
 ```
 
-</td>
-</tr>
-</table>
-
----
-
-## ⚡ Quick Start
-
-<details>
-<summary><b>🌐 Option 1: Web App (Recommended — No Python Needed!)</b></summary>
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/python-mini-project.git
-
-# Navigate to the web app
-cd python-mini-project/web-app
-
-# Start the server
-python -m http.server 8000
-
-# Open in browser
-open http://localhost:8000
-```
-
-✨ **All 20 projects, live in your browser with beautiful animations!**
-
-</details>
-
-<details>
-<summary><b>🐍 Option 2: Run Python Directly (CLI)</b></summary>
-
-```bash
-# Clone
-git clone https://github.com/yourusername/python-mini-project.git
-cd python-mini-project
-
-# Run any project — no setup needed!
-python games/Rock-Paper-Scissor/Rock-Paper-Scissor.py
-```
-
-**Prerequisites:** Python 3.10+ ([Download](https://www.python.org/downloads/))
-
-</details>
-
----
-
-## 🎮 Projects
-
-### 🎲 Games — Test Your Luck & Wit
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🪨 Rock, Paper, Scissors**
-> Battle the computer in the ultimate classic!
-- Interactive gameplay with live feedback
-- Smart AI opponent
-- Win/loss/draw tracking
-```bash
-python games/Rock-Paper-Scissor/Rock-Paper-Scissor.py
-```
-
-</td>
-<td width="50%" valign="top">
-
-**🎯 Number Guessing Game**
-> Can you read the machine's mind?
-- Smart `📈 Too High` / `📉 Too Low` hints
-- Attempt counter
-- Celebratory win animation
-```bash
-python games/Number-Guessing-Game/Number-Guessing-Game.py
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🎮 Hangman**
-> Classic word-guessing with ASCII stakes!
-- Random word dictionary
-- 6-life system with visual display
-- Letter history tracking
-```bash
-python games/Hangman-Game/Hangman-Game.py
-```
-
-</td>
-<td width="50%" valign="top">
-
-**💖 FLAMES Game**
-> Discover your relationship destiny!
-- Enter any two names
-- Magical FLAMES algorithm
-- Friends · Love · Affection · Marriage · Enemies · Siblings
-```bash
-python games/FLAMES-Game/FLAMES-Game.py
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🎲 Dice Rolling**
-> Roll two dice and test your fortune!
-- Realistic ⚀⚁⚂⚃⚄⚅ dice emojis
-- Sum calculator
-- Replay in one keystroke
-```bash
-python games/Roling-Dice/Roling-Dice.py
-```
-
-</td>
-<td width="50%" valign="top">
-
-**🪙 Coin Flip**
-> Heads or tails — you decide!
-- 👑 Heads vs 🦅 Tails
-- Instant flip animation
-- Perfect for quick decisions
-```bash
-python games/Flipping-toss/Flipping-toss.py
-```
-
-</td>
-</tr>
-</table>
-
----
-
-### 🔢 Math Wizards — Explore Number Magic
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**✨ Fibonacci Series**
-> Generate the golden sequence!
-- Classic & extended Fibonacci
-- Visual arrow-based formatting
-- Configurable length
-```bash
-python math/Fibonacci-Series/Fibonacci-Series.py
-```
-
-</td>
-<td width="50%" valign="top">
-
-**🔺 Pascal's Triangle**
-> Mathematical beauty in triangular form!
-- Centered display output
-- View specific rows
-- Interactive exploration
-```bash
-python math/Pascal-Triangle/Pascal-Triangle.py
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**💎 Armstrong Number Checker**
-> Uncover numbers with narcissistic properties!
-- Step-by-step calculation breakdown
-- Instant verification
-- Educational examples included
-```bash
-python math/Armstrong-Number/Armstrong-Number.py
-```
-
-</td>
-<td width="50%" valign="top">
-
-**🔱 Prime Number Analyzer**
-> All-in-one prime number toolkit!
-- ✅ Primality check
-- 📈 Generate primes up to N
-- 🎯 Range finder + factorization
-```bash
-python math/Prime-Number-Analyzer/Prime-Number-Analyzer.py
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🔢 Collatz Conjecture**
-> Explore the legendary 3n+1 mystery!
-- Full sequence generation
-- Step counter & statistics
-- Watch any number collapse to 1
-```bash
-python math/Collatz-Conjecture/Collatz-Conjecture.py
-```
-
-</td>
-<td width="50%" valign="top">
-
-**🧮 Simple Calculator**
-> A polished mathematical companion!
-- ➕ ➖ ✖️ ➗ All operations
-- Power, modulus support
-- Clean menu-driven interface
-```bash
-python math/Simple-Calculator/Simple-Calculator.py
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**∂ Derivative Calculator**
-> Full polynomial derivative engine!
-- 1st & nth derivative support
-- Evaluate at any x-value
-- Coefficient-list input
-```bash
-python math/Derivative-Calculator/Derivative-Calculator.py
-```
-
-</td>
-<td width="50%" valign="top">
-
-**🧭 Coordinate → Polar**
-> Transform Cartesian to polar coordinates!
-- Input (x, y) → radius & angle
-- Degrees and radians output
-- Clear step-by-step results
-```bash
-python math/Coordinate-to-Polar-Transformation/Coordinate-to-Polar-Transformation.py
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**📐 AP/GP/AGP/HP Recognizer**
-> Identify progression types instantly!
-- Detects Arithmetic, Geometric, AGP & Harmonic
-- Integer and decimal support
-- Great for exam prep
-```bash
-python math/AP-GP-AGP-HP-Recognizer/AP-GP-AGP-HP-Recognizer.py
-```
-
-</td>
-<td width="50%" valign="top">
-
-**🎯 Projectile Motion Game**
-> Physics simulation meets interactive fun!
-- Launch angle & velocity input
-- Shows TOF, H-max, Range
-- Matplotlib trajectory plot
-```bash
-python math/Projectile-Motion-Game/Projectile-Motion-Game.py
-```
-
-</td>
-</tr>
-</table>
-
----
-
-### 🔐 Crypto & Utilities — Encode Your Secrets
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**📻 Morse Code Translator**
-> Text ↔ Morse, bidirectionally!
-- Full letter, number & symbol support
-- Complete Morse reference chart
-- Encode & decode modes
-```bash
-python utilities/Text-to-Morse/Text-to-Morse.py
-```
-
-</td>
-<td width="50%" valign="top">
-
-**🗼 Tower of Hanoi**
-> The legendary puzzle, solved step-by-step!
-- 1–8 disk configurations
-- Visual tower representation
-- Iterative solution walkthrough
-```bash
-python utilities/Tower-of-Hanoi/Tower-of-Hanoi.py
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## 🌐 Web App
+<br/>
 
 <div align="center">
 
-| Feature | Detail |
+| 🔭 Working On | AI-powered Python tools & open source libs |
 |---|---|
-| 🎮 All Projects | All 20 projects playable in-browser |
-| 🌗 Theme Toggle | Dark & light mode |
-| 🔍 Category Filter | Games · Math · Utilities |
-| 📱 Responsive | Works on mobile, tablet & desktop |
-| ✨ Animations | Smooth transitions & visual effects |
-| ⚡ Zero Setup | Open and play instantly |
+| 🌱 Currently Learning | LLM fine-tuning · LangChain · FastAPI |
+| 🤝 Open To | Collaborations · Internships · Hackathons |
+| 💬 Ask Me About | Python · PyQt · ML · Open Source |
+| ⚡ Fun Fact | I automate everything — including my coffee reminders |
 
 </div>
 
----
+<br/>
 
-## 🎓 What You'll Learn
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2" width="100%"/>
 
-Working through this collection, you'll master:
+<br/>
 
-| Skill | Projects That Teach It |
-|---|---|
-| **User Input & Output** | Calculator, Number Guessing, Coin Flip |
-| **Control Flow (if/while/for)** | Hangman, Rock Paper Scissors, Collatz |
-| **Lists & Dictionaries** | Fibonacci, Morse Translator, FLAMES |
-| **Randomization** | Dice Rolling, Coin Flip, Hangman |
-| **String Manipulation** | Morse Code, FLAMES, Hangman |
-| **Mathematical Algorithms** | Prime Analyzer, Armstrong, Pascal's Triangle |
-| **Recursion & Iteration** | Tower of Hanoi, Collatz Conjecture |
-| **Data Visualization** | Projectile Motion (Matplotlib) |
-
----
-
-## 📊 Analytics
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    TECH STACK                              -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=6AD3F7&icon_color=F97316&text_color=ffffff" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6AD3F7&text_color=ffffff" height="180"/>
+## ⚙️ Tech Stack
 
-<br/>
+**Languages**
 
-<img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true&background=0d1117&ring=6AD3F7&fire=F97316&currStreakLabel=6AD3F7" height="180"/>
+![Python](https://img.shields.io/badge/Python-0a0a0f?style=for-the-badge&logo=python&logoColor=00d4ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0f?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0f?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![SQL](https://img.shields.io/badge/SQL-0a0a0f?style=for-the-badge&logo=postgresql&logoColor=336791)
+![Bash](https://img.shields.io/badge/Bash-0a0a0f?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
 
-<br/>
+**AI / ML**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0d1117&color=6AD3F7&line=F97316&point=ffffff&area=true&hide_border=true" width="95%"/>
+![PyTorch](https://img.shields.io/badge/PyTorch-0a0a0f?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0a0f?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-0a0a0f?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![LangChain](https://img.shields.io/badge/LangChain-0a0a0f?style=for-the-badge&logo=chainlink&logoColor=00d4ff)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0a0a0f?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+![NumPy](https://img.shields.io/badge/NumPy-0a0a0f?style=for-the-badge&logo=numpy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/Pandas-0a0a0f?style=for-the-badge&logo=pandas&logoColor=150458)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0a0a0f?style=for-the-badge&logo=python&logoColor=11557C)
+
+**Frameworks & Tools**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-0a0a0f?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Flask](https://img.shields.io/badge/Flask-0a0a0f?style=for-the-badge&logo=flask&logoColor=white)
+![PyQt](https://img.shields.io/badge/PyQt6-0a0a0f?style=for-the-badge&logo=qt&logoColor=41CD52)
+![React](https://img.shields.io/badge/React-0a0a0f?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-0a0a0f?style=for-the-badge&logo=node.js&logoColor=339933)
+
+**DevOps & Infra**
+
+![Git](https://img.shields.io/badge/Git-0a0a0f?style=for-the-badge&logo=git&logoColor=F05032)
+![Docker](https://img.shields.io/badge/Docker-0a0a0f?style=for-the-badge&logo=docker&logoColor=2496ED)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0a0a0f?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![Linux](https://img.shields.io/badge/Linux-0a0a0f?style=for-the-badge&logo=linux&logoColor=FCC624)
+![VS Code](https://img.shields.io/badge/VS%20Code-0a0a0f?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0f?style=for-the-badge&logo=postgresql&logoColor=336791)
 
 </div>
 
----
+<br/>
 
-## 🤝 Contributing
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2" width="100%"/>
 
-We love contributions from the community!
+<br/>
 
-**How to add a new project:**
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  GITHUB STATS                              -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-```bash
-# 1. Fork and clone
-git clone https://github.com/yourusername/python-mini-project.git
+<div align="center">
 
-# 2. Create your branch
-git checkout -b feature/YourAmazingProject
+## 📊 GitHub Analytics
 
-# 3. Add your project
-# CLI  →  games/Your-Project/Your-Project.py
-# Web  →  web-app/js/projects.js
+<table>
+<tr>
+<td>
 
-# 4. Commit and push
-git commit -m "✨ Add: Your Amazing Project"
-git push origin feature/YourAmazingProject
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0a0f&title_color=00d4ff&icon_color=a78bfa&text_color=c9d1d9&border_color=00d4ff20&ring_color=00d4ff" height="195"/>
 
-# 5. Open a Pull Request!
+</td>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=transparent&hide_border=true&bg_color=0a0a0f&title_color=00d4ff&text_color=c9d1d9&border_color=00d4ff20" height="195"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=yourusername&theme=transparent&hide_border=true&background=0a0a0f&ring=00d4ff&fire=a78bfa&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=6b7280&currStreakNum=ffffff&sideNums=ffffff" height="195"/>
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0a0a0f&color=a78bfa&line=00d4ff&point=ffffff&area=true&hide_border=true&area_color=00d4ff20" width="95%"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--               CONTRIBUTION SNAKE                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-snake-dark.svg" width="95%"/>
+</picture>
+
+> _To enable the snake animation, add the [GitHub Actions workflow](https://github.com/Platane/snk#usage)_
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                 FEATURED PROJECTS                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🚀 Featured Projects
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI Assistant CLI
+> A terminal-based GPT-powered assistant with memory and plugins
+
+[![Repo](https://img.shields.io/badge/View%20Repo-0a0a0f?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/yourusername/ai-assistant-cli)
+![Python](https://img.shields.io/badge/Python-0a0a0f?style=flat-square&logo=python&logoColor=00d4ff)
+![Stars](https://img.shields.io/github/stars/yourusername/ai-assistant-cli?style=flat-square&color=a78bfa&labelColor=0a0a0f)
+
+- Streaming responses via OpenAI / local LLMs
+- Plugin system for calendar, files, web search
+- Persistent conversation memory with SQLite
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 Python Mini Projects
+> 20 interactive CLI games and math tools — pure Python, zero deps
+
+[![Repo](https://img.shields.io/badge/View%20Repo-0a0a0f?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/yourusername/python-mini-project)
+![Python](https://img.shields.io/badge/Python-0a0a0f?style=flat-square&logo=python&logoColor=00d4ff)
+![Stars](https://img.shields.io/github/stars/yourusername/python-mini-project?style=flat-square&color=a78bfa&labelColor=0a0a0f)
+
+- Games, math wizards, crypto tools
+- Full browser-playable web app included
+- Built for learners — concept-rich & beginner-friendly
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 ML Pipeline Framework
+> Modular, config-driven ML training & evaluation pipeline
+
+[![Repo](https://img.shields.io/badge/View%20Repo-0a0a0f?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/yourusername/ml-pipeline)
+![Python](https://img.shields.io/badge/Python-0a0a0f?style=flat-square&logo=python&logoColor=00d4ff)
+![PyTorch](https://img.shields.io/badge/PyTorch-0a0a0f?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+
+- YAML-based experiment configs
+- Auto logging to W&B / MLflow
+- One-command train → evaluate → export
+
+</td>
+<td width="50%" valign="top">
+
+### 🖥️ PyQt Dashboard Studio
+> Desktop data dashboard builder with drag-and-drop widgets
+
+[![Repo](https://img.shields.io/badge/View%20Repo-0a0a0f?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/yourusername/pyqt-dashboard)
+![PyQt](https://img.shields.io/badge/PyQt6-0a0a0f?style=flat-square&logo=qt&logoColor=41CD52)
+![Stars](https://img.shields.io/github/stars/yourusername/pyqt-dashboard?style=flat-square&color=a78bfa&labelColor=0a0a0f)
+
+- Real-time charts via pyqtgraph
+- CSV / API data connectors
+- Export dashboards as standalone apps
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--             COMPETITIVE PROGRAMMING                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🏆 Competitive Programming
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-0a0a0f?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/yourusername)
+
+**LeetCode**
+`450+ Problems Solved`
+`Top 15% Globally`
+
+</td>
+<td align="center" width="33%">
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-0a0a0f?style=for-the-badge&logo=codeforces&logoColor=1F8ACB)](https://codeforces.com/profile/yourusername)
+
+**Codeforces**
+`Specialist (1400+)`
+`Div 2 Regular`
+
+</td>
+<td align="center" width="33%">
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-0a0a0f?style=for-the-badge&logo=hackerrank&logoColor=00EA64)](https://hackerrank.com/yourusername)
+
+**HackerRank**
+`5★ Python`
+`4★ Problem Solving`
+
+</td>
+</tr>
+</table>
+
+**Core strengths:** Dynamic Programming · Graph Algorithms · Greedy · Binary Search · Trees
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--               OPEN SOURCE                                  -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🌍 Open Source Involvement
+
+[![GSSoC](https://img.shields.io/badge/GSSoC%202024-Contributor-FF6B35?style=for-the-badge&logo=git&logoColor=white)](https://gssoc.girlscript.tech/)
+[![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest%202024-Contributor-7B2FBE?style=for-the-badge&logo=digitalocean&logoColor=white)](https://hacktoberfest.com/)
+[![Open Source](https://img.shields.io/badge/Open%20Source-❤️%20Advocate-00d4ff?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://opensource.org/)
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%">
+
+**Contributions**
+- 🔧 Fixes & features in 10+ public repos
+- 📝 Documentation improvements for beginner projects
+- 🧪 Test coverage added for OSS Python libraries
+- 🌐 Translated UI strings for multilingual projects
+
+</td>
+<td width="50%">
+
+**Maintainer Activity**
+- 🎯 Actively review PRs on my repos
+- 🏷️ Label and triage issues for contributors
+- 📋 Maintain CONTRIBUTING guides & templates
+- 💬 Mentor first-time contributors
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--               CURRENTLY LEARNING                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 📡 Currently Learning
+
+</div>
+
+```
+  ┌─────────────────────────────────────────────────────────────┐
+  │                                                             │
+  │  🧠  LLM Fine-tuning (LoRA / QLoRA with HuggingFace)       │
+  │  ⚡  FastAPI + async Python for production APIs             │
+  │  🔗  LangChain & LlamaIndex for RAG pipelines               │
+  │  🐳  Docker + GitHub Actions for CI/CD automation           │
+  │  📐  System Design & distributed systems fundamentals       │
+  │                                                             │
+  └─────────────────────────────────────────────────────────────┘
 ```
 
-**Project Guidelines:**
+<br/>
 
-| Rule | Why |
-|---|---|
-| 🎨 Use emojis in output | Visual engagement |
-| 💯 Zero external dependencies | Instant runnability |
-| 📝 Add docstrings & comments | Beginner-friendly |
-| ✅ Test before submitting | Quality assurance |
-| 🌐 Add web version in `projects.js` | Full experience |
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2" width="100%"/>
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
+<br/>
 
----
-
-## 🏆 Open Source Involvement
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--               GITHUB TROPHIES                              -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-[![GSSoC](https://img.shields.io/badge/GSSoC-Participant-orange?style=for-the-badge&logo=git&logoColor=white)](https://gssoc.girlscript.tech/)
-[![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-Contributor-blueviolet?style=for-the-badge&logo=digitalocean&logoColor=white)](https://hacktoberfest.com/)
-[![Open Source](https://img.shields.io/badge/Open%20Source-❤️-red?style=for-the-badge)](https://opensource.org/)
+## 🥇 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" width="100%"/>
 
 </div>
 
-This project actively welcomes contributions during open-source events. All contributors are recognized in our contributors list!
+<br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2" width="100%"/>
 
-## 💬 Connect & Share
+<br/>
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-yourusername-181717?style=for-the-badge&logo=github)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi!-EA4335?style=for-the-badge&logo=gmail)](mailto:you@example.com)
-
-</div>
-
----
-
-## 📝 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
-Free to use, modify, and distribute. Attribution appreciated! 🙏
-
----
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  QUOTE                                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+> _"Programs must be written for people to read, and only incidentally for machines to execute."_
+>
+> — Harold Abelson
 
-### 🎉 Happy Coding!
+<br/>
 
-**Made with ❤️ for Python learners everywhere**
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   FOOTER                                   -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-*If this helped you learn something new — drop a ⭐ and share with a friend!*
+**If my work helped you, consider leaving a ⭐ — it means the world.**
 
+<br/>
 
-[⬆ Back to Top](#-python-mini-projects-collection)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0533,50:0d1b2a,100:0a0a0f&height=160&section=footer&text=Keep%20Building.%20Keep%20Shipping.&fontSize=32&fontColor=00d4ff&animation=fadeIn&fontAlignY=55&descColor=a78bfa" width="100%"/>
 
 </div>
