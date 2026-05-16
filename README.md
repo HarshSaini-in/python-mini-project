@@ -258,6 +258,18 @@ Memorize a growing emoji sequence and repeat it correctly!
 python games/Emoji-Memory-Game/emoji_memory_game.py
 ```
 
+#### 🧠 Emoji Memory Game
+Memorize a growing emoji sequence and repeat it correctly!
+- 🧩 Increasing difficulty with each level
+- 🧠 Memory training with fun emoji patterns
+- 🔁 Restart anytime and improve your high score
+```bash
+python games/Emoji-Memory-Game/emoji_memory_game.py
+```
+
+</td>
+<td width="50%">
+
 #### 🎮 Hangman Game
 Classic word-guessing game!
 - 📝 Random word selection
